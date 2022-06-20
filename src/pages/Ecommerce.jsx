@@ -18,7 +18,7 @@ const Ecommerce = () => {
         // Banner
          bg-hero-pattern
          bg-no-repeat bg-cover bg-center ">
-           <div className="flex justify-between items-center">
+         <div className="flex justify-between items-center">
              <div>
                <p className="font-bold text-gray-400">Earnings</p>
                <p className="text-2xl">$900,000.99</p>
